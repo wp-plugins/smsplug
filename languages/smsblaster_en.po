@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smsblaster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-24 13:24+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: wirtschaftsinformatiker <blog@wirtschaftsinformatiker.cc>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Documents and Settings\\marco.bischoff\\Desktop\\SMSBlaster\\Wordpress\n"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:105
+msgid "Natelnummer"
+msgstr "Handy number"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:107
+msgid "Mitteilung"
+msgstr "Message"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:109
+msgid "Senden"
+msgstr "Submit"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:127
+msgid "Es stehen dir noch die folgende Anzahl SMS zur Verf&uuml;gung: "
+msgstr "You have the following count of SMS: "
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:133
+msgid "Es stehen dir f&uuml;r diesen Monat keine SMS mehr zur Verf&uuml;gung"
+msgstr "For this month you don't have no more SMS to be send"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:189
+msgid "Options saved."
+msgstr "Options saved."
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:209
+msgid "Titel"
+msgstr "Title"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:214
+msgid "BenutzerID"
+msgstr "Userkey"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:219
+msgid "Passwort"
+msgstr "Password"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:224
+msgid "Versender"
+msgstr "Originator"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:228
+#, fuzzy
+msgid "Nur Registrierte Benutzer"
+msgstr "Only registered user"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:233
+#, fuzzy
+msgid "Anzahl SMS Pro Monat"
+msgstr "Number of SMS per month and user"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:254
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster.php:279
+msgid "SMSBlaster"
+msgstr "SMSBlaster"
+
+#: C:\Documents
+#: and
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster_send.php:31
+#: Settings\marco.bischoff\Desktop\SMSBlaster\Wordpress/smsblaster_send.php:45
+#, fuzzy
+msgid "SMS ist Gesendet"
+msgstr "SMS is send"
+
